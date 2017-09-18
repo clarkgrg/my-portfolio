@@ -1,3 +1,3 @@
 # Greg Clark's Portfolio
 
-This is my professional portfolio is uses AWS and ReactJS
+This is my professional portfolio it uses AWS and ReactJS
